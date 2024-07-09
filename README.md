@@ -4,27 +4,18 @@ Authored many articles on some of the most reputed sites worldwide, including MS
 
 Authored the following books:-
 
-- Mastering C# 8.0 (BPB Publishers)
+| Title                                         | Publisher               |
+| --------------------------------------------- | ----------------------- |
+| Mastering C# 8.0                              | BPB Publishers          |
+| Entity Framework Tutorial (Second Edition)    | Packt Publishing        |
+| ASP.NET Web API                               | Packt Publishing        |
+| Visual Studio Six in One                      | Wrox Publishers         |
+| ASP.NET 4.0 Programming                       | Mc-Graw Hill Publishing |
+| Pro Sync Framework                            | APRESS Publishers       |
+| Sams Teach Yourself ASP.NET Ajax in 24 Hours  | Sams Publishing         |
+| ASP.NET Data Presentation Controls Essentials | Packt Publishing        |
 
-- Entity Framework Tutorial Second Edition (Packt Publishing)
 
-- ASP.NET Web API (Packt Publishing)
-
-- Visual Studio Six in One (Wrox)
-
-- ASP.NET 4.0 Programming (Mc-Graw Hill Publishing)
-
-- Pro Sync Framework (APRESS)
-
-- Sams Teach Yourself ASP.NET Ajax in 24 Hours (Sams Publishing)
-
-- Entity Framework Tutorial (Packt Publishing)
-
-- ASP.NET Data Presentation Controls Essentials (Packt Publishing)
-
-  
-
-  
 
 Website: https://joydipkanjilal.com/
 
@@ -35,3 +26,7 @@ Twitter: https://twitter.com/joydipkanjilal
 Blog: https://www.infoworld.com/author/Joydip-Kanjilal/
 
 Github: https://github.com/joydipkanjilal
+
+
+
+Writing a book on Software Architecture & Design now.
